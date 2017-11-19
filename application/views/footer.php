@@ -1,0 +1,1 @@
+<div>Buraya footer bilgileri gelecek</div>
