@@ -17,7 +17,7 @@
 
 	<body>
 		<?php echo $header; ?>
-		Ah şu denemeler bir bitmedi..
+		Ah şu
 		<?php echo $footer; ?>
 	</body>
 
